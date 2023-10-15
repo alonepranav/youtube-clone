@@ -1,3 +1,18 @@
+<!-- 
+  
+```````````````````````````````````````````````````````````````````````````````````````````````````````
+
+    Time : Making Projects    
+    Project : YouTube Home page clone
+    Details : YouTube clone using NextJS and Tailwind CSS.
+    Date :  
+          Started :           14/10/2023 -> Saturday - morning
+          Complete :          14/10/2023 -> Saturday - evening
+        
+````````````````````````````````````````````````````````````````````````````````````````````````````````
+-->
+
+
 import Navbar from "@/components/Navbar";
 import "./globals.css";
 import { Inter } from "next/font/google";
